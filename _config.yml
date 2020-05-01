@@ -13,8 +13,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    #twitter: 
-    github:  jc-hiroto
+    # twitter: 
+    # github:  jc-hiroto
     # devto: jekyll
     # dribbble: jekyll
      facebook: james.chang.com.tw
