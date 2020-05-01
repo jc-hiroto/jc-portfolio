@@ -7,14 +7,15 @@
 #
 layout: home
 ---
-## 作品集 PDF | Portfolio PDF file
+#Portfolio
+## PDF file
 
-## 影片製作
+## Video
 ### 【青羽青少年志工團】關於我們，2.0。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0JSDTcVxMuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 動畫與特效
+## Animation and Effects
 
-## 平面設計
+## Graphic Design
 
-## 程式設計
+## Programming
