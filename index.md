@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-# Portfolio
+Portfolio of James Chang.
 ## PDF Version
 
 ## Video
