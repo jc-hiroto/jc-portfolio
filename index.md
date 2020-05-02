@@ -29,13 +29,37 @@ Portfolio of James Chang.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gKEjoiruLlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Showreel
-#### 2017
+- 2017
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJweT0bZ5so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### 2016
+- 2016
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GeG5-wEfA0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Animation and Effects
+### 青羽青少年志工團
+#### 團隊識別圖示動畫
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0JSDTcVxMuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 2020 台大雄友之夜 埠 TAKAO
+#### 主視覺圖示動畫、影片開場
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZM20I_jaeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 台大攝影社 NTUPHOTO
+####團隊識別圖示動畫、直播準備畫面動畫
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hiMrWtKUv6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 2019 台大雄友之夜 今晚的 Bear 極星
+#### 主視覺圖示動畫、文字特效、Camera tracking
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Ts1gckpK5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### JC Production
+####團隊識別動畫 (多次修改)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D0-Xz5lPInE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### KSPC 雄中攝影
+#### 團隊識別動畫
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7E6-QbSFjrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Graphic Design
 
